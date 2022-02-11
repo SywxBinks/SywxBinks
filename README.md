@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @SywxBinks
-- 👀 I’m interested in : Coding.
-- 🌱 I’m currently learning C#.
-- 📫 How to reach me : Discord : Freebox#0041
+bendo
